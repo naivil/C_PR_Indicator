@@ -30,7 +30,7 @@ int main()
 	}
 	cubes(size, size, arr);
 
-	printf("\nMatrix after cubing each element:\n");
+	printf("\ncub of each element:\n");
 	for (int i = 0; i < size; i++)
 	{
 		for (int j = 0; j < size; j++)
